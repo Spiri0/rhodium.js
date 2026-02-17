@@ -1,7 +1,8 @@
 # Rhodium.js
 
 An advanced virtual geometry system built for Three.js/WebGPU.
-This project was inspired by [AIFanatic](https://github.com/AIFanatic).  
+This project was inspired by [AIFanatic](https://github.com/AIFanatic).
+Use **WASD** and **Space** to navigate and move around the scene.
 
 See it running live [here](https://spiri0.github.io/rhodium.js/)
 
