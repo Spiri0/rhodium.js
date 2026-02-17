@@ -1,1 +1,1 @@
-Click [here](https://spiri0.github.io/rhodium.js/) to see the project.
+See it running live [here](https://spiri0.github.io/rhodium.js/)
