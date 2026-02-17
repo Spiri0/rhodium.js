@@ -1,7 +1,7 @@
 # Rhodium.js
 
+An advanced virtual geometry system built for Three.js/WebGPU.
 This project was inspired by [AIFanatic](https://github.com/AIFanatic).  
-I wanted to explore WebGPU with Three.js and see what could be achieved in a browser.
 
 See it running live [here](https://spiri0.github.io/rhodium.js/)
 
