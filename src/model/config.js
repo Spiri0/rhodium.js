@@ -1,2 +1,2 @@
-export const instancePerSide = 30;
+export const instancePerSide = 20;
 export const instanceDistance = 8;
